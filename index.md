@@ -24,6 +24,16 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+<iframe src="https://developer.mozilla.org/en-US/docs/Glossary"
+        width="100%" height="500" frameborder="0"
+        allowfullscreen sandbox>
+  <p> 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary">
+       Fallback link for browsers that don't support iframes
+    </a>
+  </p>
+</iframe>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
